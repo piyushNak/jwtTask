@@ -4,3 +4,4 @@ Step 1: Run the following commands to initialize the project and create an index
 
 Step 2: Installing required packages
   npm install express dotenv jsonwebtoken
+![Uploading image.png…]()
