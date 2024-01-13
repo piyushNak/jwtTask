@@ -21,7 +21,7 @@ Step 4: Install a text editor of your choice. We are using  [Visual Studio](http
 Step:5 [Download Postman](https://www.postman.com/downloads/) We are using the Postman application to check the output of the application. We send and receive API calls and check if the JWT is working correctly.
 To download the Postman application, go to its [official website.](https://www.postman.com/downloads/)
 
-![App Screenshot](https://www.c-sharpcorner.com/article/how-to-download-and-install-postman-on-your-pc/Images/Postman%20Image%20-%20Step%202new.png00)
+![App Screenshot](https://www.c-sharpcorner.com/article/how-to-download-and-install-postman-on-your-pc/Images/Postman%20Image%20-%20Step%202new.png)
 
 
 
